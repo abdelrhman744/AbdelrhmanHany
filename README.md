@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/abdelrhman-hany74/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
-  <a href="https://github.com/AbdelrhmanHany" target="_blank">
+  <a href="[https://github.com/AbdelrhmanHany](https://github.com/abdelrhman744)" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   </a>
 </p>
@@ -28,11 +28,9 @@
 ---
 
 ## 🛠 Languages and Tools
-## 🛠 Languages and Tools
 <p align="left">
   <!-- Programming -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
 
   <!-- Data Science -->
