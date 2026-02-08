@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/abdelrhman-hany74/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
-  <a href="[https://github.com/AbdelrhmanHany](https://github.com/abdelrhman744)" target="_blank">
+  <a href="https://github.com/abdelrhman744" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   </a>
 </p>
